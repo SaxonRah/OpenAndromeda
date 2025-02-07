@@ -1,0 +1,26 @@
+3702FLARE ADJUSTMENT(R)       [  ][  ][  ][  ][  ]  0e0b00100ff20fc
+3704FLARE ADJUSTMENT(G)       [  ][  ][  ][  ][  ]  0e0c00100ff20fd
+3706FLARE ADJUSTMENT(B)       [  ][  ][  ][  ][  ]  0e0d00100ff20fe
+3802R GAMMA                   [  ][  ][  ][  ][  ]  0e0900100ff20fa
+3803B GAMMA                   [  ][  ][  ][  ][  ]  0e0a00100ff20fb
+4101AUDIO VCO                 [  ][  ][  ][  ][  ]  020400100ff2074
+0401PLL_POS                   [  ][  ][  ][  ][  ]  021b00100ff208b
+0801ENC LEVEL ADJ.      [PAL] [  ][  ][  ][  ][  ]  021700000002087
+0901CHROMA LEVEL ADJ.   [PAL] [  ][  ][  ][  ][  ]  021600000002086
+0501Y_CLAMP_DC                [  ][  ][  ][  ][  ]  021100100ff2081
+0601VECTOR ADJ.(CAMERA)_H     [  ][  ][  ][  ][  ]  021200100ff2082
+0602VECTOR ADJ.(CAMERA)_V     [  ][  ][  ][  ][  ]  021300100ff2083
+4401PLL_VCO                   [  ][  ][  ][  ][  ]  020b7a100ff207b
+4501PB EQUALIZER ADJ.1(EQ_DL) [  ][  ][  ][  ][  ]  020ec4100ff207e
+4601PB EQUALIZER ADJ.2(PLL SL)[  ][  ][  ][  ][  ]  020d66100ff207d
+4602PB EQUALIZER ADJ2(PLL POS)[  ][  ][  ][  ][  ]  020f9e100ff207f
+4603PB EQUALIZER ADJ2(AUTO EQ)[  ][  ][  ][  ][  ]  0210cc100ff2080
+4604PB EQUALIZER ADJ.2(EQ_A_L)[  ][  ][  ][  ][  ]  020790100ff2077
+4605PB EQUALIZER ADJ.2(EQ_B_L)[  ][  ][  ][  ][  ]  020935100ff2079
+4606PB EQUALIZER ADJ.2(EQ_A_R)[  ][  ][  ][  ][  ]  020890100ff2078
+4607PB EQUALIZER ADJ.2(EQ_B_R)[  ][  ][  ][  ][  ]  020a35100ff207a
+4701REC FRE L                 [  ][  ][  ][  ][  ]  021eff100ff208e
+4702REC CUR L                 [  ][  ][  ][  ][  ]  022080100ff2090
+4801REC FRE R                 [  ][  ][  ][  ][  ]  021fff100ff208f
+4802REC CUR R                 [  ][  ][  ][  ][  ]  022180100ff2091
+

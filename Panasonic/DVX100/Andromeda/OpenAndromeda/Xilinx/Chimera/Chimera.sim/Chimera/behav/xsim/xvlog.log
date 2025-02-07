@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Panasonic/DVX100/Andromeda/OpenAndomeda/Xilinx/Chimera/Chimera.srcs/Chimera/imports/Verilog/AndromedaMod.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AndromedaMod
+ERROR: [VRFC 10-3642] port 'red_image' must not be declared to be an array [D:/Panasonic/DVX100/Andromeda/OpenAndomeda/Xilinx/Chimera/Chimera.srcs/Chimera/imports/Verilog/AndromedaMod.v:42]
+ERROR: [VRFC 10-3642] port 'blue_image' must not be declared to be an array [D:/Panasonic/DVX100/Andromeda/OpenAndomeda/Xilinx/Chimera/Chimera.srcs/Chimera/imports/Verilog/AndromedaMod.v:43]
+ERROR: [VRFC 10-3642] port 'green_image' must not be declared to be an array [D:/Panasonic/DVX100/Andromeda/OpenAndomeda/Xilinx/Chimera/Chimera.srcs/Chimera/imports/Verilog/AndromedaMod.v:44]
+ERROR: [VRFC 10-2865] module 'AndromedaMod' ignored due to previous errors [D:/Panasonic/DVX100/Andromeda/OpenAndomeda/Xilinx/Chimera/Chimera.srcs/Chimera/imports/Verilog/AndromedaMod.v:1]

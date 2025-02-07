@@ -1,0 +1,340 @@
+<!DOCTYPE svcdoc PUBLIC "-//MATSUSHITA//DTD SVCDOC.DTD V2.0//EN" [
+
+<!-- Begin Document Specific Declarations -->
+
+<?Fm: Validation Off>
+
+<!ENTITY mttl1 SYSTEM "Ser_ma.tif" NDATA TIF>
+<!ENTITY logo1 SYSTEM "logo.tif" NDATA TIF>
+<!ENTITY mdlpic2 SYSTEM "picture.tif" NDATA TIF>
+<!ENTITY graphic1 SYSTEM "warning.tif" NDATA TIF>
+<!ENTITY bnm2 SYSTEM "pana.tif" NDATA TIF>
+<!ENTITY graphic2 SYSTEM "spec.tif" NDATA TIF>
+<!ENTITY graphic3 SYSTEM "Safety_a.tif" NDATA TIF>
+<!ENTITY graphic4 SYSTEM "pl.tif" NDATA TIF>
+<!ENTITY graphic5 SYSTEM "inf.pdf" NDATA pdf>
+<!ENTITY graphic6 SYSTEM "dis.pdf" NDATA pdf>
+<!ENTITY graphic7 SYSTEM "mech.pdf" NDATA pdf>
+<!ENTITY graphic8 SYSTEM "ele.pdf" NDATA pdf>
+<!ENTITY graphic9 SYSTEM "blk.pdf" NDATA pdf>
+<!ENTITY graphic13 SYSTEM "s05_not2.tif" NDATA TIF>
+<!ENTITY graphic14 SYSTEM "aaa.tif" NDATA TIF>
+<!ENTITY graphic10 SYSTEM "incone.pdf" NDATA pdf>
+<!ENTITY graphic11 SYSTEM "03g21.pdf" NDATA pdf>
+<!ENTITY graphic12 SYSTEM "23571.pdf" NDATA pdf>
+<!ENTITY graphic15 SYSTEM "01914.pdf" NDATA pdf>
+<!ENTITY graphic16 SYSTEM "01922.pdf" NDATA pdf>
+<!ENTITY graphic17 SYSTEM "05395.pdf" NDATA pdf>
+<!ENTITY graphic18 SYSTEM "04817.pdf" NDATA pdf>
+<!ENTITY graphic19 SYSTEM "06e92.pdf" NDATA pdf>
+<!ENTITY graphic20 SYSTEM "06e93.pdf" NDATA pdf>
+<!ENTITY graphic21 SYSTEM "000z0.pdf" NDATA pdf>
+<!ENTITY graphic22 SYSTEM "06e95.pdf" NDATA pdf>
+<!ENTITY graphic23 SYSTEM "06f04.pdf" NDATA pdf>
+<!ENTITY graphic24 SYSTEM "04828.pdf" NDATA pdf>
+<!ENTITY graphic25 SYSTEM "000y2.pdf" NDATA pdf>
+<!ENTITY graphic26 SYSTEM "000y3.pdf" NDATA pdf>
+<!ENTITY graphic27 SYSTEM "000y6.pdf" NDATA pdf>
+<!ENTITY graphic28 SYSTEM "04819.pdf" NDATA pdf>
+<!ENTITY graphic29 SYSTEM "06e96.pdf" NDATA pdf>
+<!ENTITY graphic30 SYSTEM "000y9.pdf" NDATA pdf>
+<!ENTITY graphic31 SYSTEM "22331.pdf" NDATA pdf>
+<!ENTITY graphic32 SYSTEM "04816.pdf" NDATA pdf>
+<!ENTITY graphic33 SYSTEM "04815.pdf" NDATA pdf>
+<!ENTITY graphic34 SYSTEM "04825.pdf" NDATA pdf>
+<!ENTITY graphic35 SYSTEM "06e89.pdf" NDATA pdf>
+<!ENTITY graphic36 SYSTEM "01915.pdf" NDATA pdf>
+<!ENTITY graphic37 SYSTEM "26257.pdf" NDATA pdf>
+<!ENTITY graphic38 SYSTEM "scm_no1.pdf" NDATA pdf>
+<!ENTITY graphic39 SYSTEM "scm_no2.pdf" NDATA pdf>
+<!ENTITY graphic40 SYSTEM "scm_no3.pdf" NDATA pdf>
+<!ENTITY graphic41 SYSTEM "cba_01_02.pdf" NDATA pdf>
+<!ENTITY graphic42 SYSTEM "cba_03_04.pdf" NDATA pdf>
+<!ENTITY graphic43 SYSTEM "cba_05.pdf" NDATA pdf>
+<!ENTITY graphic44 SYSTEM "cba_06.pdf" NDATA pdf>
+<!ENTITY graphic45 SYSTEM "cba_07.pdf" NDATA pdf>
+<!ENTITY graphic46 SYSTEM "cba_08.pdf" NDATA pdf>
+<!ENTITY graphic47 SYSTEM "cba_09.pdf" NDATA pdf>
+<!ENTITY graphic48 SYSTEM "cba_10.pdf" NDATA pdf>
+<!ENTITY graphic49 SYSTEM "cba_11.pdf" NDATA pdf>
+<!ENTITY graphic50 SYSTEM "cba_12.pdf" NDATA pdf>
+<!ENTITY graphic51 SYSTEM "cba_13.pdf" NDATA pdf>
+<!ENTITY graphic52 SYSTEM "cba_14.pdf" NDATA pdf>
+<!ENTITY graphic53 SYSTEM "cba_15.pdf" NDATA pdf>
+<!ENTITY graphic54 SYSTEM "cba_16.pdf" NDATA pdf>
+<!ENTITY graphic55 SYSTEM "cba_17.pdf" NDATA pdf>
+<!ENTITY graphic56 SYSTEM "cba_18.pdf" NDATA pdf>
+<!ENTITY graphic57 SYSTEM "cba_19.pdf" NDATA pdf>
+<!ENTITY graphic58 SYSTEM "cba_20.pdf" NDATA pdf>
+<!ENTITY graphic59 SYSTEM "cba_21.pdf" NDATA pdf>
+<!ENTITY graphic60 SYSTEM "cba_22.pdf" NDATA pdf>
+<!ENTITY graphic61 SYSTEM "cba_23_24.pdf" NDATA pdf>
+<!ENTITY graphic65 SYSTEM "sikaku.tif" NDATA TIF>
+<!ENTITY graphic66 SYSTEM "bbb.tif" NDATA TIF>
+<!ENTITY graphic62 SYSTEM "k_list.pdf" NDATA pdf>
+<!ENTITY graphic63 SYSTEM "e_list.pdf" NDATA pdf>
+<!ENTITY graphic64 SYSTEM "cover.pdf" NDATA pdf>
+<!ENTITY appendix SYSTEM "../../../../../../appendix\appendix.sgm" NDATA SGM>
+<!-- End Document Specific Declarations -->
+
+]>
+
+<svcdoc type = "svc" lang = "english"><cvr><mid><ono>ORDER NO. BSD0212M004</ono>
+<cno>D21</cno><mttl loc = "mttl1" halign = "center"></mid>
+<pid><product><pnm>Digital Video Camera Recorder</pnm>
+<logo loc = "logo1"><mdlno><mmdlno>AG-DVX100P</mmdlno></mdlno></product>
+
+<chss></chss>
+<clr></clr>
+<dest>                                  </dest></pid>
+<pspec><mdlpic loc = "mdlpic2" sizex = "86.529mm" sizey = "29.125mm"></pspec>
+<legal><cpyrht>&copy; 2002 Matsushita Electric Industrial Co., Ltd. All rights reserved. Unauthorized copying and distribution is a violation of law.</cpyrht><warn>
+<graphic loc = "graphic1" sizex = "183.000mm" sizey = "21.406mm"></warn>
+</legal>
+
+<spnt>
+<ttl>Please refer to the Operating Instructions in the appendix folder.<br><ext.xref rid="ext00">(Go to Appendix List)</ext.xref>
+</ttl></spnt>
+
+<bnm loc = "bnm2"></cvr>
+<fig column = "2" newpage = "1"><graphic loc = "graphic2" sizex = "183.001mm" sizey = "89.802mm"></fig>
+<topic newpage = "1"><ttl>SAFETY PRECAUTIONS</ttl>
+<topic><ttl>GENERAL GUIDELINES</ttl>
+<ol><li><p>When servicing, observe the original lead dress. If a short<br>circuit is found, replace all parts which have been over-heated or damaged by the short circuit.</p></li>
+<li><p>After servicing, see to it that all the protective devices such as insulation barriers, insulation papers shields are properly installed.</p></li>
+<li><p>After servicing, make the following leakage current checks to prevent the customer from being exposed to shock hazards.</p></li></ol></topic>
+<topic><ttl>LEAKAGE CURRENT COLD CHECK</ttl>
+<ol><li><p>Unplug the AC cord and connect a jumper between the two prongs on the plug.</p></li>
+<li><p>Measure the resistance value, with an ohm meter, between the jumpered AC plug and each exposed metallic cabinet part on the equipment such as screwheads, connectors, control shafts, etc. The resistance value must be more than 5M&ohm;.</p></li></ol>
+<fig><cap>Figure1</cap><graphic loc = "graphic3" sizex = "90.340mm" sizey = "51.647mm">
+</fig></topic>
+<topic><ttl>LEAKAGE CURRENT HOT CHECK (See Figure 1)</ttl>
+<ol><li><p>Plug the AC cord directly into the AC outlet. <br>Do not use an isolation transformer for this check.</p></li>
+<li><p>Connect a 1.5k&ohm;, 10W resistor, in parallel with a 0.15&micro;F capacitor, between each exposed metallic part on the set an a good earth ground such as a water pipe, as shown in Figure1.</p></li>
+<li><p>Use an AC voltmeter, with 1000 ohms&sol;volt or more sensitivity, to measure the potential across the resistor.</p></li>
+<li><p>Check each exposed metallic part, and measure the voltage at each point.</p></li>
+<li><p>Reverses the AC plug in the AC outlet repeat each of the above measurements.</p></li>
+<li><p>The potential at any point should not exceed 0.15 volts RMS. A leakage current tester (Simpson Model 229 equivalent) may be used to make the hot checks, leakage current must not exceed 0.1 milliamp. In case a measurement is outside of the limits
+specified, there is a possibility of a shock hazard, and the equipment should be repaired and checked before it is returned to the customer.</p></li></ol></topic>
+<topic><ttl>ABOUT LEAD FREE SOLDER (PbF)</ttl>
+<topic><ttl>Distinction of Pbf PCB:</ttl>
+<p>PCBs (manufactured) using lead free solder will have a PbF stamp on the PCB.</p></topic>
+<topic><ttl>Caution:</ttl>
+<ol><li><p>Pb free solder has a higher melting point than standard solder; Typically the melting point is 50-70&deg;F (30-40&deg;C) higher. Please use a high temperature soldering iron. In case of the soldering iron with temperature control, please
+set it to 700&plusmn;20&deg;F  (370&plusmn;10&deg;C ).</p></li>
+<li><p>Pb free solder will tend to splash when heated too high (about 1100&deg;F &sol;600&deg;C ).</p></li></ol></topic></topic>
+<topic><ttl>ELECTROSTATICALLY SENSITIVE (ES) DEVICES</ttl>
+<p>Some semiconductor (solid state) devices can be damaged easily by static electricity. Such components commonly are called Electrostatically sensitive (ED) Devices. Examples of typical ES devices are integrated circuits and some field-effect transistors
+and semiconductor &ldquo;chip&rdquo; components. The following techniques should be used to help reduce the incidence of component damage caused by static electricity. </p>
+<ol><li><p>Immediately before handling any semiconductor component or semiconductor-equipped assembly, drain off any electrostatic charge on your body by touching a known earth ground. <br>Alternatively, obtain and wear a commercially available discharging
+wrist trap device, which should be removed for potential shock reasons prior to applying power to the unit under test.</p></li>
+<li><p>After removing an electrical assembly equipped with ES devices, place the assembly on a conductive surface such as aluminum foil, to prevent electrostatic charge buildup or exposure of the assembly.</p></li>
+<li><p>Use only a grounded tip soldering iron to solder or unsolder ES devices.</p></li>
+<li><p>Use only an anti-static solder removal device classified as &ldquo;anti-static&rdquo; can generate electrical charges sufficient to damage ES devices.</p></li>
+<li><p>Do not use freon-propelled chemicals. These can generate electrical charges sufficient to damage ES devices.</p></li>
+<li><p>Do not remove a replacement ES device from its protective package until immediately before you are ready to install it.<br>(most replacement ES devices are package with leads electrically shorted together by conductive foam, aluminum foil or
+comparable conductive material).</p></li>
+<li><p>Immediately before removing the protective material from the leads of a replacement ES device, touch the protective material to the chassis or circuit assembly into which the device will be installed. <br>CAUTION : Be sure no power is applied
+to the chassis or circuit, and observe all other safety precautions.</p></li>
+<li><p>Minimize bodily motions when handling unpacked replacement ES devices. (Otherwise harmless motion such as the brushing together of your clothes fabric or the lifting of your foot from a carpeted floor can generate static electricity sufficient
+to damage an ES device).</p></li></ol>
+<topic><ttl>X-RADIATION</ttl>
+<topic><ttl>WARNING</ttl>
+<ol><li><p>The potential source of X-radiation in EVF sets is the High Voltage section and the picture tube.</p></li>
+<li><p>When using a picture tube test jig for service, ensure that jig is capable of handling 10kV without causing x-radiation.</p>
+<topic><ttl>Note : </ttl>
+<p>It is important to use an accurate periodically calibrated high voltage meter.</p></topic></li>
+<li><p>Measure the High Voltage. The meter (electric type) reading should indicate 2.5kV, 0.15kV. If the meter indication is out of tolerance, immediate service and correction is required to prevent the possibility of premature component failure. To
+prevent an x-radiation possibility, it is essential to use the specified picture tube.</p></li></ol></topic></topic></topic>
+<fig><graphic loc = "graphic4" sizex = "148.336mm" sizey = "240.327mm"></fig></topic>
+<text><ti1 column = "3" newpage = "1"><ttl>Service Information</ttl>
+<fig type = "ext"><graphic loc = "graphic5" sizex = "214.137mm" sizey = "297.001mm"></fig></ti1>
+<ti1 column = "3" newpage = "1"><ttl>Disassembly Procedures</ttl>
+<fig type = "ext"><graphic loc = "graphic6" sizex = "214.137mm" sizey = "297.001mm"></fig></ti1>
+<ti1 column = "3" newpage = "1"><ttl>Mechanical Adjustment</ttl>
+<fig type = "ext"><graphic loc = "graphic7" sizex = "214.137mm" sizey = "297.001mm"></fig></ti1>
+<ti1 column = "3" newpage = "1"><ttl>Electrical Adjustment</ttl>
+<fig type = "ext"><graphic loc = "graphic8" sizex = "214.137mm" sizey = "297.001mm"></fig></ti1>
+<ti1 column = "3" newpage = "1" kind = "bd"><ttl>Block Diagrams</ttl>
+<fig type = "ext"><graphic loc = "graphic9" sizex = "297.001mm" sizey = "213.784mm"></fig></ti1>
+<ti1 column = "3" newpage = "1" kind = "sd"><ttl>Schematic Diagrams</ttl>
+<fig><graphic loc = "graphic13" sizex = "183.001mm" sizey = "81.638mm"></fig>
+<topic><ttl>NOTE</ttl>
+<p>BE SURE TO MAKE YOUR ORDERS OF REPLACEMENT PARTS ACCORDING TO PARTS LIST.</p></topic>
+<table frame = "all" colsep = "1" rowsep = "1"><tgroup cols = "1" colsep = "1" rowsep = "1">
+<colspec colnum = "1" colname = "1" colwidth = "7.205in">
+<tbody>
+<row rowsep = "0">
+<entry colname = "1" align = "justify"><topic><ttl><emp>CAUTION</emp></ttl>
+<p>THE <graphic loc = "graphic14" sizex = "8.000mm" sizey = "4.000mm"> MARK INDICATES THE PRIMARY CIRCUIT TO DISTINGUISH THE PRIMARY FROM THE SECONDARY CIRCUIT.<br>PAY ATTENTION NOT TO RECEIVE AN ELECTRIC SHOCK DURING REPAIR AND SERVICE OF THE PRODUCTS.</p></topic></entry>
+</row>
+</tbody>
+</tgroup></table>
+<topic><ttl>IMPORTANT SAFETY NOTICE:</ttl>
+<p>COMPONENTS IDENTIFIED WITH THE MARK    &safety;    HAVE THE SPECIAL CHARACTERISTICS FOR SAFETY.<br>WHEN REPLACING ANY OF THESE COMPONENTS, USE ONLY THE SAME TYPE.</p></topic>
+<ti2><ttl>INTERCONNECTION</ttl>
+<fig type = "ext"><graphic loc = "graphic10" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>VTR (VEP03G21A)</ttl>
+<fig type = "ext"><graphic loc = "graphic11" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>CAMERA (VEP23571A)</ttl>
+<fig type = "ext"><graphic loc = "graphic12" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>POWER (VEP01914A)</ttl>
+<fig type = "ext"><graphic loc = "graphic15" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>POWER 2 (VEP01922A)</ttl>
+<fig type = "ext"><graphic loc = "graphic16" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>HR AMP (VEP05395A)</ttl>
+<fig type = "ext"><graphic loc = "graphic17" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>R SIDE (VEP04817A)</ttl>
+<fig type = "ext"><graphic loc = "graphic18" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>CAMERA OP1 (VEP06E92A)</ttl>
+<fig type = "ext"><graphic loc = "graphic19" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>CAMERA OP2 (VEP06E93A)</ttl>
+<fig type = "ext"><graphic loc = "graphic20" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>MENU (VEP000Z0A)</ttl>
+<fig type = "ext"><graphic loc = "graphic21" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>HANDLE 1 (VEP06E95A)</ttl>
+<fig type = "ext"><graphic loc = "graphic22" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>HANDLE 2 (VEP06F04A)</ttl>
+<fig type = "ext"><graphic loc = "graphic23" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>MIC (VEP04828A)</ttl>
+<fig type = "ext"><graphic loc = "graphic24" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>EVR CONNECT (VEP000Y2A)</ttl>
+<fig type = "ext"><graphic loc = "graphic25" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>VC_CONNECT (VEP000Y3A)</ttl>
+<fig type = "ext"><graphic loc = "graphic26" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>REAR JACK CONNECT FLEX (VEP000Y6A)</ttl>
+<fig type = "ext"><graphic loc = "graphic27" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>REAR JACK (VEP04819A)</ttl>
+<fig type = "ext"><graphic loc = "graphic28" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>POWER SW (VEP06E96A)</ttl>
+<fig type = "ext"><graphic loc = "graphic29" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>TOP OP (VEP000Y9A)</ttl>
+<fig type = "ext"><graphic loc = "graphic30" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>GYRO (VEP22331A)</ttl>
+<fig type = "ext"><graphic loc = "graphic31" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>SIDE JACK (VEP04816A)</ttl>
+<fig type = "ext"><graphic loc = "graphic32" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>MIC CH2 (VEP04815A)</ttl>
+<fig type = "ext"><graphic loc = "graphic33" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>MIC CH1 (VEP04825A)</ttl>
+<fig type = "ext"><graphic loc = "graphic34" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>MODE SW (VEP06E89A)</ttl>
+<fig type = "ext"><graphic loc = "graphic35" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>BATTERY (VEP01915A)</ttl>
+<fig type = "ext"><graphic loc = "graphic36" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>MONITOR (VEP26257A)<br>HALL SENSOR (VEP06E26A)</ttl>
+<fig type = "ext"><graphic loc = "graphic37" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>VTR_SUB (VEP001A4A)<br>CAMERA SUB (VEP001A7A)<br>POWER SUB (VEP001A6A)<br>F_TALLY (VEP06E94A)<br><br></ttl>
+<fig type = "ext"><graphic loc = "graphic38" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>EVF_A (VEP28272B)<br>EVF_B (VEP28275B)<br>LCD OPEN SW (VEP000Y4A)<br>EJECT (VEP000Y7A)</ttl>
+<fig type = "ext"><graphic loc = "graphic39" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2>
+<ti2><ttl>ZOOM SW (VEP06E90A)<br>DC_IN (VEP01923A)</ttl>
+<fig type = "ext"><graphic loc = "graphic40" sizex = "297.001mm" sizey = "219.076mm"></fig></ti2></ti1>
+<ti1 column = "3" newpage = "1" kind = "cb"><ttl>Circuit Board Diagrams</ttl>
+<topic><ttl>NOTE</ttl>
+<p>BE SURE TO MAKE YOUR ORDERS OF REPLACEMENT PARTS ACCORDING TO PARTS LIST.</p></topic>
+<table frame = "all" colsep = "1" rowsep = "1"><tgroup cols = "1" colsep = "1" rowsep = "1">
+<colspec colnum = "1" colname = "1" colwidth = "7.205in">
+<tbody>
+<row rowsep = "0">
+<entry colname = "1" align = "justify"><topic><ttl><emp>CAUTION</emp></ttl>
+<p>THE <graphic loc = "graphic14" sizex = "8.000mm" sizey = "4.000mm"> MARK INDICATES THE PRIMARY CIRCUIT TO DISTINGUISH THE PRIMARY FROM THE SECONDARY CIRCUIT.<br>PAY ATTENTION NOT TO RECEIVE AN ELECTRIC SHOCK DURING REPAIR AND SERVICE OF THE PRODUCTS.</p></topic></entry>
+</row>
+</tbody>
+</tgroup></table>
+<topic><ttl>IMPORTANT SAFETY NOTICE:</ttl>
+<p>COMPONENTS IDENTIFIED WITH THE MARK    &safety;    HAVE THE SPECIAL CHARACTERISTICS FOR SAFETY.<br>WHEN REPLACING ANY OF THESE COMPONENTS, USE ONLY THE SAME TYPE.</p></topic>
+<ti2><ttl>VTR C.B.A. (VEP03G21A)</ttl>
+<fig type = "ext"><graphic loc = "graphic41" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>CAMERA C.B.A. (VEP23571A)</ttl>
+<fig type = "ext"><graphic loc = "graphic42" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>POWER C.B.A. (VEP01914A)</ttl>
+<fig type = "ext"><graphic loc = "graphic43" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>R SIDE C.B.A. (VEP04817A)</ttl>
+<fig type = "ext"><graphic loc = "graphic44" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>CAMERA OP1 FLEX C.B.A. (VEP06E92A)</ttl>
+<fig type = "ext"><graphic loc = "graphic45" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>CAMERA OP2 FLEX C.B.A. (VEP06E93A)</ttl>
+<fig type = "ext"><graphic loc = "graphic46" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>REAR JACK C.B.A. (VEP04819A)</ttl>
+<fig type = "ext"><graphic loc = "graphic47" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>POWER SW C.B.A. (VEP06E96A)</ttl>
+<fig type = "ext"><graphic loc = "graphic48" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>SIDE JACK C.B.A. (VEP04816A)</ttl>
+<fig type = "ext"><graphic loc = "graphic49" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>MIC CH2 C.B.A. (VEP04815A)</ttl>
+<fig type = "ext"><graphic loc = "graphic50" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>MIC CH1 C.B.A. (VEP04825A)</ttl>
+<fig type = "ext"><graphic loc = "graphic51" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>MODE SW C.B.A. (VEP06E89A)</ttl>
+<fig type = "ext"><graphic loc = "graphic52" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>VTR SUB C.B.A. (VEP001A4A)<br>CAMERA SUB 1&sol;2&sol;3 C.B.A. (VEP001A7A&sol;B&sol;C)<br>POWER SUB C.B.A. (VEP001A6A)<br>POWER 2 C.B.A. (VEP01922A)</ttl>
+<fig type = "ext"><graphic loc = "graphic53" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>HR AMP C.B.A. (VEP05395A)<br>MENU C.B.A. (VEP000Z0A)<br>HANDLE 1 C.B.A. (VEP06E95A)</ttl>
+<fig type = "ext"><graphic loc = "graphic54" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>HANDLE 2 FLEX C.B.A. (VEP06F04A)<br>VC CONNECT C.B.A. (VEP000Y3A)</ttl>
+<fig type = "ext"><graphic loc = "graphic55" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>MIC C.B.A. (VEP04828A)<br>F TALLY FLEX C.B.A. (VEP06E94A)</ttl>
+<fig type = "ext"><graphic loc = "graphic56" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>EVR CONNECT C.B.A. (VEP000Y2A)<br>LCD OPEN C.B.A. (VEP000Y4A)<br>EJECT C.B.A. (VEP000Y7A)</ttl>
+<fig type = "ext"><graphic loc = "graphic57" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>ZOOM SW FLEX C.B.A. (VEP06E90A)<br>TOP OP C.B.A. (VEP000Y9A)<br>GYRO C.B.A. (VEP22331A)</ttl>
+<fig type = "ext"><graphic loc = "graphic58" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>DC IN C.B.A. (VEP01923A)<br>BATTERY C.B.A. (VEP01915A)<br>REAR JACK CONNECT C.B.A. (VEP000Y6A)</ttl>
+<fig type = "ext"><graphic loc = "graphic59" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>EVF A C.B.A. (VEP28272B)<br>EVF B C.B.A. (VEP28275B)</ttl>
+<fig type = "ext"><graphic loc = "graphic60" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2>
+<ti2><ttl>MONITOR C.B.A. (VEP26257A)</ttl>
+<fig type = "ext"><graphic loc = "graphic61" sizex = "214.137mm" sizey = "297.001mm"></fig></ti2></ti1>
+<ti1 column = "3" newpage = "1" kind = "exview"><ttl>Mechanical Replacement Parts List &amp; Exploded Views</ttl>
+<table frame = "all" colsep = "1" rowsep = "1"><tgroup cols = "1" colsep = "1" rowsep = "1">
+<colspec colnum = "1" colname = "1" colwidth = "7.205in">
+<tbody>
+<row rowsep = "0">
+<entry colname = "1" align = "justify"><topic><ttl>NOTE:</ttl>
+<ol><li><p> Be sure to make your orders of replacement parts according to this list.</p></li>
+<li><p> Unless otherwise specified, all resistors are in OHMS, K&equals;1,000 OHMS, all capacitors are in MICROFARADS (&micro;F), P&equals;&micro;&micro;F.</p></li>
+<li><p> The P.C. Board unit marked with " <graphic loc = "graphic65" sizex = "3.000mm" sizey = "3.000mm"> " shown below the main assembled parts.</p></li>
+<li><p> The parts marked with <graphic loc = "graphic66" sizex = "4.000mm" sizey = "4.000mm"> on the exploded view show the electric parts.</p></li>
+<li><p><emp> IMPORTANT SAFETY NOTICE</emp></p>
+<p>Components identified with the mark    &safety;    have the special characteristics for safety. When replacing any of these components, use only the same type.</p></li>
+<li><p> The marking (RTL) indicates the retention time is limited for this item. <br>After the discontinuation of this assembly in production, it will no longer be available.</p></li>
+<li><p> &ldquo;(M)&rdquo; in Remark column indicates needed in the periodical maintenance.</p></li></ol></topic></entry>
+</row>
+</tbody>
+</tgroup></table>
+<fig type = "ext"><graphic loc = "graphic62" sizex = "183.001mm" sizey = "258.969mm"></fig></ti1>
+<ti1 column = "3" newpage = "1" kind = "plist"><ttl>Electrical Replacement Parts List</ttl>
+<table frame = "all" colsep = "1" rowsep = "1"><tgroup cols = "1" colsep = "1" rowsep = "1">
+<colspec colnum = "1" colname = "1" colwidth = "7.205in">
+<tbody>
+<row rowsep = "0">
+<entry colname = "1" align = "justify"><topic><ttl>NOTE:</ttl>
+<ol><li><p> Be sure to make your orders of replacement parts according to this list.</p></li>
+<li><p> Unless otherwise specified, all resistors are in OHMS, K&equals;1,000 OHMS, all capacitors are in MICROFARADS (&micro;F), P&equals;&micro;&micro;F.</p></li>
+<li><p> The P.C. Board unit marked with " <graphic loc = "graphic65" sizex = "3.000mm" sizey = "3.000mm"> " shown below the main assembled parts.</p></li>
+<li><p> The parts marked with <graphic loc = "graphic66" sizex = "4.000mm" sizey = "4.000mm"> on the exploded view show the electric parts.</p></li>
+<li><p><emp> IMPORTANT SAFETY NOTICE</emp></p>
+<p>Components identified with the mark    &safety;    have the special characteristics for safety. When replacing any of these components, use only the same type.</p></li>
+<li><p> The marking (RTL) indicates the retention time is limited for this item. <br>After the discontinuation of this assembly in production, it will no longer be available.</p></li>
+<li><p> &ldquo;(M)&rdquo; in Remark column indicates needed in the periodical maintenance.</p></li></ol></topic></entry>
+</row>
+</tbody>
+</tgroup></table>
+<fig type = "ext"><graphic loc = "graphic63" sizex = "183.001mm" sizey = "258.969mm"></fig>
+<caution><ttl>NOTE:</ttl>
+<p>A list of parts is stored in data form in the CD-ROM. It is located within the folder APPENDIX&sol;PARTS. Please use as necessary.</p></caution></ti1>
+<ti1 column = "3" newpage = "1"><ttl>PDF for Printing</ttl>
+<p>The PDF documents for printing consist of several files per section.Open every section (file) through a link (blue frame) on the cover.</p>
+<table frame = "all" colsep = "1" rowsep = "1"><tgroup cols = "1" colsep = "1" rowsep = "1">
+<colspec colnum = "1" colname = "1" colwidth = "7.205in">
+<tbody>
+<row rowsep = "0">
+<entry colname = "1" align = "justify"><p>&bull;Setting of Acrobat Reader</p><p>To view a link in a new window, follow the procedure below. When you operate the PDF documents for printing, you can open a PDF file of each section while displaying
+the cover page. This is convenient to view the PDF files in several sections. </p><p>&lt;How to set&gt; In the [File] menu, select [Preference] - [General...] and disable [Open Cross-Doc Links in Same Window].</p></entry>
+</row>
+</tbody>
+</tgroup></table>
+<fig type = "ext"><graphic loc = "graphic64" sizex = "183.001mm" sizey = "258.969mm"></fig></ti1></text>
+<nameloc id="ext00"><nmlist nametype=entity>appendix</nmlist></nameloc>
+</svcdoc>

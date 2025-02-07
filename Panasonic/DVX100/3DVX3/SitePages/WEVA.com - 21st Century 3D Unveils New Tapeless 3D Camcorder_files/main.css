@@ -1,0 +1,245 @@
+body {
+color: #FFFFFF;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+}
+UL, U {
+color: #00000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+}
+
+.big {
+color: #000000;
+font-size: 20px;
+font-family: Verdana, Geneva, Arial;
+font-weight : bold;
+}
+
+.time {
+color: #333399;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+}
+
+.note {
+color: #000000;
+font-size: 10px;
+font-family: Verdana, Geneva, Arial;
+}
+
+.note1 {
+color: #000000;
+font-size: 11px;
+font-family: Verdana, Geneva, Arial;
+}
+
+h3 {
+color: #800080;
+font-size: 18px;
+font-family: Verdana, Geneva, Arial;
+font-weight : bold;
+}
+
+TD, TH, .BOD {
+color: #000000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+
+}
+FONT {
+color: #000000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+ line-height: 15px
+}
+
+.expo {
+color: #000000;
+font-size: 11px;
+font-family: Verdana, Geneva, Arial;
+ line-height: 15px
+}
+
+.expo2 {
+color: #5C155C;
+font-size: 14px;
+font-family: Verdana, Geneva, Arial;
+font-weight : bold;
+line-height: 15px
+}
+
+.ontheair tr td
+{
+	font-size: 12px;
+	font-family: Verdana, Geneva, Arial;
+	line-height: 15px;
+	color: white;
+}
+
+.ontheair a:link {
+color: #F70000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: none;
+}
+.ontheair a:visited {
+color: #F70000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+.ontheair a:active {
+color: #F70000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+.ontheair a:hover {
+color: #F70000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+
+
+
+
+a:link {
+color: #333399;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: none;
+}
+a:visited {
+color: #333399;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+a:active {
+color: #000000;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+a:hover {
+color: #666699;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+select {
+color: #333399;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+}
+.mpvsubmit {
+color: #333399;
+font-size: 18px;
+font-family: Verdana, Geneva, Arial;
+}
+
+
+input {
+color: #333399;
+font-size: 10px;
+font-family: Verdana, Geneva, Arial;
+}
+textarea {
+color: #333399;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+}
+.light {
+color: #C0C0B8;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+}
+H1{
+color: #575757;
+font-size: 12px;
+font-family: Verdana, Geneva, Arial;
+ line-height : normal;
+ margin-bottom : 7px;
+ margin-top : 7px;
+}
+
+H2 {
+color: #800080;
+font-size: 18px;
+font-family: Verdana, Geneva, Arial;
+ font-weight : bold;
+ line-height : normal;
+ margin-bottom : 0px;
+ margin-top : 0px;
+
+}
+
+H3 {
+color: # 000000;
+font-size: 14px;
+font-family: Verdana, Geneva, Arial;
+font-weight : bold;
+line-height : normal;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+
+.mpvwhite {
+color: #FFFFFF;
+font-size: 12px;
+font-weight : bold;
+font-family: Verdana, Geneva, Arial;
+line-height: noral;
+ }
+ 
+ 
+.tabletitle {
+color: #FFFFFF;
+font-size: 10px;
+font-family: Verdana, Geneva, Arial;
+ font-weight : bold;
+ line-height : normal;
+ margin-bottom : 1px;
+ margin-top : 1px;
+ } 
+ 
+.bridesguide {
+color: #FF6666;
+font-size: 12px;
+font-family: Georgia, Times New Roman, Arial, Verdana, Helvetica, sans-serif;
+}
+
+.movielink a:link {
+color: #333399;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: none;
+}
+.movielink a:visited {
+color: #333399;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+.movielink a:active {
+color: #000000;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+.movielink a:hover {
+color: #666699;
+font-size: 9px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: underline;
+}
+.movielink {
+color: #000000;
+font-size: 10px;
+font-family: Verdana, Geneva, Arial;
+text-decoration: none;
+}
+
+ 

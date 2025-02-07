@@ -1,0 +1,119 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                deleteSelectedPoint = id; 
+                previewImageChange = id; 
+                resetAll = id; 
+                resetCurve0 = id; 
+                resetCurve1 = id; 
+                resetCurve2 = id; 
+                resetCurve3 = id; 
+                setHistPreviewBlue = id; 
+                setHistPreviewGreen = id; 
+                setHistPreviewLock = id; 
+                setHistPreviewRed = id; 
+                setPreviewBlue = id; 
+                setPreviewGreen = id; 
+                setPreviewRed = id; 
+                setViewCurve0 = id; 
+                setViewCurve1 = id; 
+                setViewCurve2 = id; 
+                setViewCurve3 = id; 
+            }; 
+            CLASS = CurvesView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                blackPointTextField = id; 
+                imageInfoShadowTextField = id; 
+                imageInfoTextField = id; 
+                selectedPointInTextField = id; 
+                whitePointTextField = id; 
+            }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {
+            ACTIONS = {"" = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = NSProBox; LANGUAGE = ObjC; SUPERCLASS = NSBox; }, 
+        {CLASS = NSProButton; LANGUAGE = ObjC; SUPERCLASS = NSButton; }, 
+        {CLASS = NSProButtonCell; LANGUAGE = ObjC; SUPERCLASS = NSButtonCell; }, 
+        {CLASS = NSProPanel; LANGUAGE = ObjC; SUPERCLASS = NSPanel; }, 
+        {CLASS = NSProPopUpButton; LANGUAGE = ObjC; SUPERCLASS = NSPopUpButton; }, 
+        {
+            CLASS = NSProPopUpButtonCell; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSPopUpButtonCell; 
+        }, 
+        {
+            CLASS = NSProProgressIndicator; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSProgressIndicator; 
+        }, 
+        {CLASS = NSProSlider; LANGUAGE = ObjC; SUPERCLASS = NSSlider; }, 
+        {CLASS = NSProStepper; LANGUAGE = ObjC; SUPERCLASS = NSStepper; }, 
+        {CLASS = NSProTableColumn; LANGUAGE = ObjC; SUPERCLASS = NSTableColumn; }, 
+        {CLASS = NSProTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }, 
+        {CLASS = NSProTextField; LANGUAGE = ObjC; SUPERCLASS = NSTextField; }, 
+        {CLASS = NSProWindow; LANGUAGE = ObjC; SUPERCLASS = NSWindow; }, 
+        {CLASS = NSSegmentedControl; LANGUAGE = ObjC; SUPERCLASS = NSControl; }, 
+        {CLASS = NSWindow; LANGUAGE = ObjC; SUPERCLASS = NSResponder; }, 
+        {CLASS = ProTableData; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                bitDepthPresetChange = id; 
+                browseLUTTemplate = id; 
+                browseTestImage = id; 
+                cancelPreferences = id; 
+                editChange = id; 
+                export = id; 
+                exportFormatChange = id; 
+                exportMainPathSelect = id; 
+                exportTIFF = id; 
+                inputDepthChange = id; 
+                load = id; 
+                loadTestImage = id; 
+                mainWindowClearChange = id; 
+                openWebsiteMain = id; 
+                openWebsiteSupport = id; 
+                openWorkspace = id; 
+                outputDepthChange = id; 
+                reportBug = id; 
+                savePreferences = id; 
+                saveWorkspaceAs = id; 
+                showAboutOnStartupChange = id; 
+            }; 
+            CLASS = xLUTController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                aboutPanel = id; 
+                bitDepthPresetPopUp = id; 
+                curveToolsBox = id; 
+                editCurveSegmentedControl = id; 
+                exportFormatPopUp = id; 
+                exportMainPathTextField = id; 
+                exportPanel = id; 
+                exportTIFFButton = id; 
+                inputDepthPopUp = id; 
+                mainPanel = id; 
+                openLUTTemplateOnStartupButton = id; 
+                openTestImageOnStartupButton = id; 
+                outputDepthPopUp = id; 
+                preferencesPanel = id; 
+                previewImagePathTextField = id; 
+                templatePathTextField = id; 
+                testImagePanel = id; 
+                testImagePathTextField = id; 
+                testImageView = id; 
+                theCurvesView = id; 
+                xMaxTextField = id; 
+                yMaxTextField = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Chimera.srcs/Chimera/imports/Verilog/AndromedaMod.v" \
+"../../../../Chimera.srcs/Chimera/imports/Verilog/AndromedaMod_tb.v" \
+"../../../../Chimera.srcs/Chimera/imports/Verilog/BayerPixelShifting.v" \
+"../../../../Chimera.srcs/Chimera/imports/Verilog/BayerPixelShifting_tb.v" \
+"../../../../Chimera.srcs/Chimera/imports/Verilog/Chimera.v" \
+"../../../../Chimera.srcs/Chimera/imports/Verilog/Chimera_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,91 @@
+0101APC                       [  ][  ][  ][  ][  ]  021c00100ff208c
+0201OUT_BIAS                  [  ][  ][  ][  ][  ]  021a00100ff208a
+0301HUE                       [  ][  ][  ][  ][  ]  021900100ff2089
+0401PLL_POS                   [  ][  ][  ][  ][  ]  021b00100ff208b
+0501Y_CLAMP_DC                [  ][  ][  ][  ][  ]  021100100ff2081
+0601VECTOR ADJ.(CAMERA)_H     [  ][  ][  ][  ][  ]  021200100ff2082
+0602VECTOR ADJ.(CAMERA)_V     [  ][  ][  ][  ][  ]  021300100ff2083
+0701VECTOR ADJ.(VIDEO)        [  ][  ][  ][  ][  ]  021900100ff2089
+0801ENC LEVEL ADJ.      [PAL] [  ][  ][  ][  ][  ]  021700000002087
+0901CHROMA LEVEL ADJ.   [PAL] [  ][  ][  ][  ][  ]  021600000002086
+1001MONITOR_OUT_LEVEL         [  ][  ][  ][  ][  ]  1e0002000000000
+1101VIDEO_IN_LEVEL            [  ][  ][  ][  ][  ]  1e0003000000000
+1201RET LEVEL                 [  ][  ][  ][  ][  ]  1e0003000000000
+1301MON_ENC LEVEL             [  ][  ][  ][  ][  ]  1e0004000000000
+1401VF_OUT(1)                 [  ][  ][  ][  ][  ]  1e0005000000000
+1402VF_OUT(2)                 [  ][  ][  ][  ][  ]  1e0001000000000
+1501SYS_PHASE(1-1)            [  ][  ][  ][  ][  ]  1e0012112130000
+1502SYS_PHASE(1-2)            [  ][  ][  ][  ][  ]  1e0014000000000
+1601SYS_PHASE(2-1)            [  ][  ][  ][  ][  ]  1e0015115180000
+1602SYS_PHASE(2-2)            [  ][  ][  ][  ][  ]  1e0019000000000
+1701SYS_PHASE(3-1)            [  ][  ][  ][  ][  ]  1e0019000000000
+1702SYS_PHASE(3-2)            [  ][  ][  ][  ][  ]  1e001A11a1b0000
+1703SYS_PHASE(3-3)            [  ][  ][  ][  ][  ]  1e001C000000000
+1801RGB_PEDESTAL              [  ][  ][  ][  ][  ]  1e0020000000000
+19010IRE ABB                  [  ][  ][  ][  ][  ]  1e0021000000000
+2001RGB TEST SIGNAL LEVEL     [  ][  ][  ][  ][  ]  1e0022000000000
+2101RGB AD INPUT LEVEL 1(R ch)[  ][  ][  ][  ][  ]  1e0023000000000
+2102RGB AD INPUT LEVEL 1(G ch)[  ][  ][  ][  ][  ]  1e0024000000000
+2103RGB AD INPUT LEVEL 1(B ch)[  ][  ][  ][  ][  ]  1e0025000000000
+2201RGB PED TRACK(1)          [  ][  ][  ][  ][  ]  1e0028000000000
+2202RGB PED TRACK(2)          [  ][  ][  ][  ][  ]  1e0029000000000
+2301RGB SH LEVEL              [  ][  ][  ][  ][  ]  1e0027000000000
+2401STRIPE LINE CONFIRMATION  [  ][  ][  ][  ][  ]  1e0036000000000
+2501STRIPE LINE ADJUSTMENT    [  ][  ][  ][  ][  ]  1e0037000000000
+2601HIGH LIGHT CARRIER ADJ    [  ][  ][  ][  ][  ]  1e003a000000000
+2701HIGH GAIN CONF(1)   [PAL] [  ][  ][  ][  ][  ]  1e003b000000000
+2702HIGH GAIN CONF(2)   [PAL] [  ][  ][  ][  ][  ]  1e003c100ff0000
+2703HIGH GAIN CONF(3)   [PAL] [  ][  ][  ][  ][  ]  1e003d100ff0000
+2704HIGH GAIN CONF(4)   [PAL] [  ][  ][  ][  ][  ]  1e003e100ff0000
+2801MOD. ADJUSTMENT     [PAL] [  ][  ][  ][  ][  ]  1e0035000000000
+2901MOD. CONFIRMATION   [PAL] [  ][  ][  ][  ][  ]  1e0035000000000
+3001S/N CONFIRMATION(1)       [  ][  ][  ][  ][  ]  1e0038000000000
+3002S/N CONFIRMATION(2)       [  ][  ][  ][  ][  ]  1e0039000000000
+3101S/N CONFIRMATION(1) [PAL] [  ][  ][  ][  ][  ]  1e003f000000000
+3102S/N CONFIRMATION(2) [PAL] [  ][  ][  ][  ][  ]  1e003f000000000
+3201ANALOG WHITE SHADING(1-1) [  ][  ][  ][  ][  ]  1e002e000000000
+3202ANALOG WHITE SHADING(1-2) [  ][  ][  ][  ][  ]  0e0e80100ff2262
+3203ANALOG WHITE SHADING(1-3) [  ][  ][  ][  ][  ]  1e002f000000000
+3301ANALOG WHITE SHADING(2-1) [  ][  ][  ][  ][  ]  0e0e80100ff2263
+3302ANALOG WHITE SHADING(2-2) [  ][  ][  ][  ][  ]  1e002f000000000
+3401DIGITAL WHITE SHADING(1-1)[  ][  ][  ][  ][  ]  1e0030000000000
+3402DIGITAL WHITE SHADING(1-2)[  ][  ][  ][  ][  ]  1e0031000000000
+3501AUTO DARK SHADING         [  ][  ][  ][  ][  ]  1e002a000000000
+3601DIGITAL DARK SHADING(1)   [  ][  ][  ][  ][  ]  1e002b000000000
+3602DIGITAL DARK SHADING(2)   [  ][  ][  ][  ][  ]  1e002d000000000
+3701FLARE ADJUSTMENT(R)(1)    [  ][  ][  ][  ][  ]  1e0032000000000
+3702FLARE ADJUSTMENT(R)(2)    [  ][  ][  ][  ][  ]  0e0b00100ff20fc
+3703FLARE ADJUSTMENT(G)(1)    [  ][  ][  ][  ][  ]  1e0033000000000
+3704FLARE ADJUSTMENT(G)(2)    [  ][  ][  ][  ][  ]  0e0c00100ff20fd
+3705FLARE ADJUSTMENT(B)(3)    [  ][  ][  ][  ][  ]  1e0034000000000
+3706FLARE ADJUSTMENT(B)(3)    [  ][  ][  ][  ][  ]  0e0d00100ff20fe
+3801RB GAMMA(1)               [  ][  ][  ][  ][  ]  1e0027000000000
+3802RB GAMMA(2)               [  ][  ][  ][  ][  ]  0e0900100ff20fa
+3803RB GAMMA(3)               [  ][  ][  ][  ][  ]  0e0a00100ff20fb
+3901MOD. ADJUSTMENT           [  ][  ][  ][  ][  ]  1e0035000000000
+4001DYNAMIC RANGE CONFIRMATION[  ][  ][  ][  ][  ]  1e003a000000000
+4101AUDIO VCO                 [  ][  ][  ][  ][  ]  020400100ff2074
+4201D/A_C_LEVEL               [  ][  ][  ][  ][  ]  020300100ff2073
+4301Y_LEVEL                   [  ][  ][  ][  ][  ]  020200100ff2072
+4401PLL_VCO                   [  ][  ][  ][  ][  ]  020b7a100ff207b
+4501PB EQUALIZER ADJ.1(EQ_DL) [  ][  ][  ][  ][  ]  020ec4100ff207e
+4601PB EQUALIZER ADJ.2(PLL SL)[  ][  ][  ][  ][  ]  020d66100ff207d
+4602PB EQUALIZER ADJ2(PLL POS)[  ][  ][  ][  ][  ]  020f9e100ff207f
+4603PB EQUALIZER ADJ2(AUTO EQ)[  ][  ][  ][  ][  ]  0210cc100ff2080
+4604PB EQUALIZER ADJ.2(EQ_A_L)[  ][  ][  ][  ][  ]  020790100ff2077
+4605PB EQUALIZER ADJ.2(EQ_B_L)[  ][  ][  ][  ][  ]  020935100ff2079
+4606PB EQUALIZER ADJ.2(EQ_A_R)[  ][  ][  ][  ][  ]  020890100ff2078
+4607PB EQUALIZER ADJ.2(EQ_B_R)[  ][  ][  ][  ][  ]  020a35100ff207a
+4701REC FRE L                 [  ][  ][  ][  ][  ]  021eff100ff208e
+4702REC CUR L                 [  ][  ][  ][  ][  ]  022080100ff2090
+4801REC FRE R                 [  ][  ][  ][  ][  ]  021fff100ff208f
+4802REC CUR R                 [  ][  ][  ][  ][  ]  022180100ff2091
+4901REC CUR L                 [  ][  ][  ][  ][  ]  0220c6100ff2090
+5001ABB AGING MODE    [MACRO] [  ][  ][  ][  ][  ]  000000a00000000
+5101ABB START         [MACRO] [  ][  ][  ][  ][  ]  000000b00000000
+5201MONITOR OUT CHANGE[MACRO] [  ][  ][  ][  ][  ]  000000c00000000
+5301EVF_OUT CHANGE    [MACRO] [  ][  ][  ][  ][  ]  000000d00000000
+5401CAM/BAR CHANGE    [MACRO] [  ][  ][  ][  ][  ]  000000e00000000
+5501INIT OF NV-RAM(A) [MACRO] [  ][  ][  ][  ][  ]  000000f00000000
+5601INIT OF NV-RAM(B) [MACRO] [  ][  ][  ][  ][  ]  000000g00000000
+
